@@ -1,3 +1,4 @@
-*bin*
+Algorithms/bin/*
 .vs
 .vscode
+*obj*
